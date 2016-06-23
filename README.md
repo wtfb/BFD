@@ -10,7 +10,7 @@
 我们所设计的程序是为了更好地管理通州区的农产品的信息以及饲料的安全进行
 ## 1．2背景 
 a．待开发的软件系统的名称：通州区农产品信息管理系统
-b．本项目的任务开发者：北京工业大学实验学院计算机班214
+b．本项目的任务开发者：北京工业大学实验学院计算机班A214
 c．系统还使用javaweb，mysql数据库。
 ## 1．3定义
 ASIMSTZ（Agriculture's security information management system of Tongzhou）：通州区农产品安全信息管理系统
